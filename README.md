@@ -15,7 +15,7 @@ O repositório está organizado da seguinte forma:
 
 Aqui está uma lista dos projetos desenvolvidos durante o curso:
 
-1. [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Projetos/Analise_Exploratoria_de_Dados_de_Logistica_Loggi.ipynb)
+1. [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Projetos/Analise_Exploratoria_de_Dados_de_Logistica_(Loggi).ipynb)
    Descrição: Neste projeto, realizamos uma análise completa de uma empresa de logística com dados reais, desde a coleta e limpeza dos dados até a criação de visualizações e insights.
    
 ## Lista de Exercícios
