@@ -1,5 +1,5 @@
 
-![Logo_EBAC](https://ebac.art.br/local/templates/brazil/i/brazil_logo_black_port.png)
+![Logo_EBAC](https://github.com/carneiro-fernando/EBAC/blob/main/assets/Images/ebac_logo.png?raw=true)
 
 ---
 
