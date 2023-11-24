@@ -1,7 +1,7 @@
-
+![]()
 # Fernando Carneiro: Projetos de Data Science
 
-Olá! Meu nome é Fernando Carneiro, um entusiasta de Data Science sempre em busca de novos desafios. Aqui você encontrará uma seleção dos projetos nos quais trabalhei, demonstrando minhas habilidades em análise de dados, machine learning, e muito mais. Explore, divirta-se e não hesite em entrar em contato para discutir qualquer um desses projetos.
+👋 Olá! Me chamo Fernando Carneiro, um entusiasta de Data Science sempre em busca de novos desafios. Aqui você encontrará uma seleção dos projetos nos quais trabalhei, demonstrando minhas habilidades em análise de dados, machine learning, e muito mais. Explore à vontade e não hesite em entrar em contato para discutir qualquer um desses projetos.
 
 ## Índice
 
@@ -28,7 +28,8 @@ Este projeto apresenta um processo completo de **ETL** utilizando a **API yFinan
 
 ---
 
-Espero que você encontre esses projetos interessantes e informativos. Se você tiver alguma dúvida ou quiser discutir qualquer um desses projetos mais a fundo, por favor, não hesite em entrar em contato comigo.
+Espero que você encontre esses projetos interessantes e informativos. Se você tiver alguma dúvida ou quiser discutir qualquer um desses projetos mais a fundo, por favor, não hesite em entrar em contato comigo!
 
-[LinkedIn](https://www.linkedin.com/in/fernandohcarneiro/)
-[E-mail](carneiro.fernando@icloud.com)
+[linkedin.com/in/fernandohcarneiro/](https://www.linkedin.com/in/fernandohcarneiro/)
+
+[carneiro.fernando@icloud.com](carneiro.fernando@icloud.com)
