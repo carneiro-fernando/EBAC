@@ -1,4 +1,4 @@
-![ ](/assets/Images/projects_banner.jpeg)
+![ ](/assets/Images/projects_banner.png)
 
 # Fernando Carneiro: Projetos de Análise/Ciência de Dados.
 
