@@ -1,6 +1,6 @@
 ![ ](/assets/Images/projects_banner.jpeg)
 
-# Fernando Carneiro: Projetos de Data Science
+# Fernando Carneiro: Projetos de Análise/Ciência de Dados.
 
 👋 Olá! Me chamo Fernando Carneiro, um entusiasta de Data Science sempre em busca de novos desafios. Aqui você encontrará uma seleção dos projetos nos quais trabalhei, demonstrando minhas habilidades em análise de dados, machine learning, e muito mais. Explore à vontade e não hesite em entrar em contato para discutir qualquer um desses projetos.
 
@@ -23,7 +23,7 @@ Este projeto apresenta uma análise aprofundada do impacto da pandemia de COVID-
 
 Neste projeto, realizamos uma análise de dados de usuários de cartão de crédito, demonstrando minha capacidade de trabalhar com a plataforma **AWS**. Utilizamos os serviços **S3** para armazenamento e **Athenas** para manipulação dos dados. A linguagem utilizada no desenvolvimento da análise foi Structured Query Language (**SQL**), demonstrando minha habilidade em trabalhar com bancos de dados.
 
-## [Projeto 4: Regressão Linear para predições no Mercado Financeiro](Projeto_de_Parceria.ipynb)
+## [Projeto de Parceria: Regressão Linear para predições no Mercado Financeiro](Projeto_de_Parceria.ipynb)
 
 Este projeto, em **parceria** com a **EBAC** e a **Semantix**, apresenta um processo completo de **ETL** utilizando a **API yFinance** para *scrapping* do site *Yahoo Finance*. Os dados são valores de ações na **bolsa de valores** das empresas do setor de **saúde**. Realizamos uma análise aprofundada dos dados obtidos, procurando padrões e insights usando várias técnicas, incluindo a aplicação do **coeficiente de Pearson** e a plotagem de **gráficos de calor**. Em seguida, desenvolvemos classes **Orientadas a Objeto** que realizam o preparo dos dados, o treinamento e a predição de valores usando a técnica de ***Machine Learning*** chamada **Regressão Linear**.
 
