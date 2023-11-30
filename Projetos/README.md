@@ -27,7 +27,7 @@ Neste projeto, realizamos uma análise de dados de usuários de cartão de créd
 
 Este projeto, em **parceria** com a **EBAC** e a **Semantix**, apresenta um processo completo de **ETL** utilizando a **API yFinance** para *scrapping* do site *Yahoo Finance*. Os dados são valores de ações na **bolsa de valores** das empresas do setor de **saúde**. Realizamos uma análise aprofundada dos dados obtidos, procurando padrões e insights usando várias técnicas, incluindo a aplicação do **coeficiente de Pearson** e a plotagem de **gráficos de calor**. Em seguida, desenvolvemos classes **Orientadas a Objeto** que realizam o preparo dos dados, o treinamento e a predição de valores usando a técnica de ***Machine Learning*** chamada **Regressão Linear**.
 
-## [Projeto 5: Data Pipeline | AWS - Whatsapp - Telegram](pipeline-aws-whatsapp-telegram.ipynb.ipynb)
+## [Projeto 5: Data Pipeline | AWS - Whatsapp - Telegram](pipeline-aws-whatsapp-telegram.ipynb)
 
 ⚠️ Projeto em construção..
 
