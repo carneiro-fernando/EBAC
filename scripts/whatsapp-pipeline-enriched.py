@@ -1,3 +1,5 @@
+### Criado por: Fernando Carneiro
+
 # Importação de bibliotecas
 import os
 import json
