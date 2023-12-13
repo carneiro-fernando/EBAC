@@ -21,7 +21,7 @@ Este projeto apresenta uma análise aprofundada do impacto da pandemia de COVID-
 
 ## [Projeto 3: Exploratory Data Analysis: Credit Cards](EDA_of_credit_card.ipynb)
 
-Neste projeto, realizamos uma análise de dados de usuários de cartão de crédito, demonstrando minha capacidade de trabalhar com a plataforma **AWS**. Utilizamos os serviços **S3** para armazenamento e **Athenas** para manipulação dos dados. A linguagem utilizada no desenvolvimento da análise foi Structured Query Language (**SQL**), demonstrando minha habilidade em trabalhar com bancos de dados.
+Neste projeto, realizei uma análise de dados de usuários de cartão de crédito, demonstrando minha capacidade de trabalhar com a plataforma **AWS**. Utilizamos os serviços **S3** para armazenamento e **Athenas** para manipulação dos dados. A linguagem utilizada no desenvolvimento da análise foi Structured Query Language (**SQL**), demonstrando minha habilidade em trabalhar com bancos de dados.
 
 ## [Projeto de Parceria: Regressão Linear para predições no Mercado Financeiro](Projeto_de_Parceria.ipynb)
 
@@ -29,7 +29,7 @@ Este projeto, em **parceria** com a **EBAC** e a **Semantix**, apresenta um proc
 
 ## [Projeto 5: Data Pipeline | AWS - Whatsapp - Telegram](pipeline-aws-whatsapp-telegram.ipynb)
 
-⚠️ Projeto em construção..
+Desenvolvimento de um pipeline de dados utilizando os serviços em nuvem da AWS, incorporando um processo ETL para extrair dados do Telegram e WhatsApp por meio de APIs. Os dados são então transferidos para um Datalake e processados em lote na nuvem de acordo com uma agenda, proporcionando as informações prontas para a análise.
 
 ---
 
