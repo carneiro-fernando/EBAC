@@ -10,6 +10,7 @@
 2. [Análise de Dados Interativa COVID-19 Dashboard](#projeto-2-análise-de-dados-interativa-covid-19-dashboard)
 3. [Exploratory Data Analysis: Credit Cards](#projeto-3-exploratory-data-analysis-credit-cards)
 4. [Regressão Linear para predições no Mercado Financeiro](#projeto-4-regressão-linear-para-predições-no-mercado-financeiro)
+5. [Data Pipeline | AWS - Whatsapp - Telegram](#pipeline-aws-whatsapp-telegram)
 
 ## [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Analise_Exploratoria_de_Dados_de_Logistica_(Loggi).ipynb)
 
