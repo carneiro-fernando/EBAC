@@ -1,4 +1,4 @@
-![Logo_EBAC_e_LOGGI](https://github.com/carneiro-fernando/EBAC/assets/69867284/3867deba-fc30-434c-ad78-247515932b31)
+![Logo_EBAC_e_LOGGI](assets/Images/projects_banner.jpeg)
 
 # Curso: "Profissão: Analista de Dados v2"
 
@@ -15,41 +15,49 @@ O repositório está organizado da seguinte forma:
 
 Aqui está uma lista dos projetos desenvolvidos durante o curso:
 
-1. [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Projetos/Analise_Exploratoria_de_Dados_de_Logistica_(Loggi).ipynb)
-   Descrição: Neste projeto, realizamos uma análise completa de uma empresa de logística com dados reais, desde a coleta e limpeza dos dados até a criação de visualizações e insights. Um destaque é o uso da **API de geocodificação Nominatim**.
+### [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Analise_Exploratoria_de_Dados_de_Logistica_(Loggi).ipynb)
 
-2. [Projeto 2: Análise_de_Dados_Interativa_COVID_19_Dashboard](Projetos/Análise_de_Dados_Interativa_COVID_19_Dashboard.ipynb)
-   Descrição: O projeto consiste em uma análise do impacto da pandemia de COVID-19 durante o período de 2020 a 2022 em quatro países - Brasil, Alemanha, Índia e Estados Unidos - em relação ao Índice de Desenvolvimento Humano (IDH) e o Produto Interno Bruto com paridade de Poder de Compra (PPC). O projeto foi feito em **Jupyter Notebook**, no entanto, há um Dashboard de visualização feito na plataforma **Looker Studio**.
+Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística real. Desde a coleta e limpeza dos dados até a criação de visualizações perspicazes e descoberta de insights valiosos, este projeto demonstra minha capacidade de trabalhar com dados complexos em um cenário do mundo real. Um destaque deste projeto é o uso da **API de geocodificação Nominatim** para enriquecer nossos dados com informações geográficas.
 
-3. [Projeto 3: Exploratory Data Analysis: Credit Cards](Projetos/EDA_of_credit_card.ipynb)
-   Descrição: Análise de Dados de usuários de cartão de crédito, feito integralmente dentro da plataforma **AWS**, utilizando os serviços **S3** para armazenamento e **Athenas** para manuseio dos dados. A linguagem utilizada no desenvolvimento da análise foi Structured Query Language (**SQL**).
+### [Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](Análise_de_Dados_Interativa_COVID_19_Dashboard.ipynb)
 
-4. [Projeto 4: Regressão Linear para predições no Mercado Financeiro](Projetos/Projeto_de_Parceria.ipynb)
-   Descrição: Neste projeto uma temos o processo de **ETL** utilizando a **API yFinance** para *scrapping* do site *Yahoo Finance*. Os dados são valores de ações na **bolsa de valores** das empresas do área de **saúde**. Para a análise dos dados obtidos à procura de padrões e insights foi empregado vários processos inclusive a aplicação do **coeficiente de Pearson** e a plotagem de **gráficos de calor**. Após isso, foi desenvolvido classes **Orientadas a Objeto** que realizam o preparo dos dados, o treinamento e a predição de valores usando a técnica de ***Machine Learning*** chamada **Regressão Linear**.
-   
+Este projeto apresenta uma análise aprofundada do impacto da pandemia de COVID-19 durante o período de 2020 a 2022 em quatro países - Brasil, Alemanha, Índia e Estados Unidos. Utilizamos indicadores como o Índice de Desenvolvimento Humano (IDH) e o Produto Interno Bruto com paridade de Poder de Compra (PPC) para contextualizar os efeitos da pandemia. Além da análise realizada no **Jupyter Notebook**, também criamos um painel de visualização interativo na plataforma **Looker Studio**.
+
+### [Projeto 3: Exploratory Data Analysis: Credit Cards](EDA_of_credit_card.ipynb)
+
+Neste projeto, realizei uma análise de dados de usuários de cartão de crédito, demonstrando minha capacidade de trabalhar com a plataforma **AWS**. Utilizamos os serviços **S3** para armazenamento e **Athenas** para manipulação dos dados. A linguagem utilizada no desenvolvimento da análise foi Structured Query Language (**SQL**), demonstrando minha habilidade em trabalhar com bancos de dados.
+
+### [Projeto de Parceria: Regressão Linear para predições no Mercado Financeiro](Projeto_de_Parceria.ipynb)
+
+Este projeto, em **parceria** com a **EBAC** e a **Semantix**, apresenta um processo completo de **ETL** utilizando a **API yFinance** para *scrapping* do site *Yahoo Finance*. Os dados são valores de ações na **bolsa de valores** das empresas do setor de **saúde**. Realizamos uma análise aprofundada dos dados obtidos, procurando padrões e insights usando várias técnicas, incluindo a aplicação do **coeficiente de Pearson** e a plotagem de **gráficos de calor**. Em seguida, desenvolvemos classes **Orientadas a Objeto** que realizam o preparo dos dados, o treinamento e a predição de valores usando a técnica de ***Machine Learning*** chamada **Regressão Linear**.
+
+### [Projeto 5: Data Pipeline | AWS - Whatsapp - Telegram](pipeline-aws-whatsapp-telegram.ipynb)
+
+Desenvolvimento de um pipeline de dados utilizando os serviços em nuvem da AWS, incorporando um processo ETL para extrair dados do Telegram e WhatsApp por meio de APIs. Os dados são então transferidos para um Datalake e processados em lote na nuvem de acordo com uma agenda, proporcionando as informações prontas para a análise.
+
 ## Lista de Exercícios
 
 Aqui está uma lista dos exercícios práticos desenvolvidos durante o curso:
 
-1. [Exercício 1: Python: Variáveis & Tipos de Dados](exercicios/exercicio1/README.md)
+#### [Exercício 1: Python: Variáveis & Tipos de Dados](exercicios/exercicio1/README.md)
    Descrição: Neste exercício, realizamos uma análise exploratória de um conjunto de dados, aplicando técnicas estatísticas e visualização de informações.
 
-2. [Exercício 2: Python: Estruturas de Dados](exercicios/exercicio2/README.md)
+#### [Exercício 2: Python: Estruturas de Dados](exercicios/exercicio2/README.md)
    Descrição: Neste exercício, praticamos a manipulação e limpeza de dados utilizando a biblioteca Pandas do Python.
 
-3. [Exercício 3: Python: Fluxo Condicional & Repetição](exercicios/exercicio3/README.md)
+#### [Exercício 3: Python: Fluxo Condicional & Repetição](exercicios/exercicio3/README.md)
    Descrição: Neste exercício, exploramos a criação de gráficos e visualizações de dados utilizando a biblioteca Matplotlib.
    
-4. [Exercício 4: Python: Arquivos & Funções](exercicios/exercicio1/README.md)
+#### [Exercício 4: Python: Arquivos & Funções](exercicios/exercicio1/README.md)
    Descrição: Neste exercício, realizamos uma análise exploratória de um conjunto de dados, aplicando técnicas estatísticas e visualização de informações.
 
-5. [Exercício 5: Python: Programação Funcional](exercicios/exercicio2/README.md)
+#### [Exercício 5: Python: Programação Funcional](exercicios/exercicio2/README.md)
    Descrição: Neste exercício, praticamos a manipulação e limpeza de dados utilizando a biblioteca Pandas do Python.
 
-6. [Exercício 6: Python: Programação Orientada a Objetos](exercicios/exercicio3/README.md)
+#### [Exercício 6: Python: Programação Orientada a Objetos](exercicios/exercicio3/README.md)
    Descrição: Neste exercício, exploramos a criação de gráficos e visualizações de dados utilizando a biblioteca Matplotlib.
    
-7. [Exercício 7: Python: Programação Orientada a Objetos II](exercicios/exercicio3/README.md)
+#### [Exercício 7: Python: Programação Orientada a Objetos II](exercicios/exercicio3/README.md)
    Descrição: Neste exercício, exploramos a criação de gráficos e visualizações de dados utilizando a biblioteca Matplotlib.
 
 ## Como Usar Este Repositório
